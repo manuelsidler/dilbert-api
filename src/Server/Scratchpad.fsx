@@ -1,4 +1,5 @@
-#r "../packages/FSharp.Data/lib/netstandard2.0/FSharp.Data.dll"
+#I @"C:\Users\Manuel\.nuget\packages" // FIXME: current user?
+#r @"fsharp.data\3.3.2\lib\netstandard2.0\FSharp.Data.dll"
 
 open FSharp.Data
 
